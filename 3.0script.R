@@ -1,0 +1,2 @@
+print(mahimaiscrazy)
+print(mahimaismorecrazy)
